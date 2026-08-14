@@ -1,3 +1,4 @@
+---
 name: south-african-total-auditing-and-due-diligence-2026
 version: 2.0.0
 type: agent-skill
@@ -44,6 +45,7 @@ anchors_inventory:
   - "ISA 220 Revised & ISQM 2 EQCR (IAASB)"
   - "ISA 700 Revised, 701, 705, 706 (IAASB)"
   - "CIPC iXBRL & Annual Return Filings (CIPC / SA Parliament)"
+---
 
 ## 1. Skill Master Blueprint & Due Diligence Mandate
 
